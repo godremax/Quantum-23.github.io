@@ -144,7 +144,7 @@ a:focus {
   text-align: center;
   text-transform: uppercase;
   font-size: 20px;
-  font-family: cursive;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .custom_nav-container .nav_search-btn {
